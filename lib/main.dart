@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.black,
         ),
         backgroundColor: Colors.black,
+      gcdwtuuytcd
         body: Column(
           children: [
             Image.asset('images/juctmercy.jpg'),
